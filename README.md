@@ -35,6 +35,6 @@ I love building thoughtful user experiences and writing clean, maintainable code
 
 ### 📫 Contact Me
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📧 your.email@example.com  
-- 🌍 [Portfolio Website](https://yourdomain.com)
+- 🌐 [LinkedIn](https://linkedin.com/in/dyalamuhammad)  
+- 📧 dyalamuhammad@example.com  
+- 🌍 [Portfolio Website](https://dyalamuhammad.com)
